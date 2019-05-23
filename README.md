@@ -4,23 +4,6 @@
 # CHAT ME
 <a href="https://line.me/R/ti/p/~jameshakim1"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
-## Running in Termux
-```
-pkg update
-pkg upgrade
-pkg install git
-git clone https://github.com/Jameshakim1/jsnew
-pkg install nodejs
-pkg install coreutils
-pkg install nodejs-current -y
-pkg install nodejs-current-dev
-cd testi-js
-npm i
-cd src
-npm install
-npm start
-
-```
 ## Running in Vps
 ```
 sudo apt-get update
@@ -36,7 +19,6 @@ npm i
 cd src
 npm install
 npm start
-
 ```
 - UPDATE IN
 23 MEI 2019
