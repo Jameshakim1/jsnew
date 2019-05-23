@@ -84,7 +84,7 @@ class LINE extends LineAPI {
 => !kepo\n\
 => !key\n\
 => !kickban *ADMIN*\n\
-=> !kickall *ADMIN*\n\
+=> Nah *ADMIN*\n\
 => !kickme\n\
 => !msg\n\
 => !mute *ADMIN*\n\
@@ -101,7 +101,7 @@ class LINE extends LineAPI {
 => !whattime\n\
 => !yousound\n\
 => !youtube\n\
-\n\n# http://line.me/ti/p/4bvwOIMft8  ^_^";
+\n\n# http://line.me/ti/p/jameshakim1  ^_^";
         var that = this;
     }
 
