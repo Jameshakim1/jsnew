@@ -1,5 +1,5 @@
 # LINE PEKOK JS VERSION BETA TEST
-[![TrioPekokBots](https://avatars2.githubusercontent.com/u/46437025?s=460&v=4)](http://line.me/ti/p/~cuma.akun.titipan)
+[![TrioPekokBots](https://2.bp.blogspot.com/-JA1hinDNk4E/XLbcsDURI9I/AAAAAAAAAPg/1qSecQ9obp8NG_WxAUVebF667qflP_SVwCLcBGAs/s1600/gif_03-31-12.33.28.gif)](http://line.me/ti/p/~jameshakim1)
 
 # CHAT ME
 <a href="https://line.me/R/ti/p/~jameshakim1"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
@@ -66,8 +66,6 @@ line.me/R/ti/p/~please.jan.goblog
 ╼━━━━━━─━━━━━━╾
 
 ```
-*LINE PEKOK JS*
-*Remake by: TRIO PEKOK BOTS*
 
 - UPDATE IN
 2 MARET 2019
